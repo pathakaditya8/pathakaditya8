@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/pathakaditya8"><img src="https://img.shields.io/github/followers/pathakaditya8?label=Follow&style=social" alt="GitHub followers"></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/aditya-pathak8"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ---
@@ -59,6 +59,6 @@
 ---
 
 ### 🤝 Let’s Connect!
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: linkedin.com/in/yourlinkedin
-- 🌐 Portfolio: yourportfolio.com
+- 📧 Email: adityapathak08.com@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/aditya-pathak8
+- 🌐 Portfolio: Not active
