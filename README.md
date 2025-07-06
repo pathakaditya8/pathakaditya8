@@ -13,8 +13,8 @@
 - 🌱 I’m currently learning ReactJS, Node.js, and actively contributing to Open Source
 - 👯 I’m looking to collaborate on Girlscript Summer of Code 2025 and beginner-friendly OSS projects
 - 💬 Ask me about Web Development, Git & GitHub, and Open Source
-- 📫 Reach me at: your.email@example.com
-- 🌐 Portfolio: yourportfolio.com
+- 📫 Reach me at: adityapathak08.com@gmail.com
+- 🌐 Portfolio: Not Yet Active
 
 ---
 
