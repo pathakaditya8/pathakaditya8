@@ -41,7 +41,7 @@
 
 ### 📌 Pinned Projects
 - [Portfolio Website](https://github.com/pathakaditya8/portfolio)
-- [Weather App](https://github.com/pathakaditya8/weather-app)
+- [Weather App](https://github.com/pathakaditya8/weather_flask_app)
 - [GSSoC Contributions](https://github.com/pathakaditya8/gssoc-projects)
 
 ---
