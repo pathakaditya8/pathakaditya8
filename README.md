@@ -42,12 +42,11 @@
 ### 📌 Pinned Projects
 - [Portfolio Website](https://pathakaditya8.github.io/portfolio/)
 - [Weather App](https://github.com/pathakaditya8/weather_flask_app)
-- [GSSoC Contributions](https://github.com/pathakaditya8/gssoc-projects)
+
 
 ---
 
 ### 🌱 Open Source Programs
-- 🌟 Girlscript Summer of Code 2025 – Contributor
 - 🎃 Hacktoberfest 2024 – Completed 4+ PRs
 - 🛠️ Actively contributing to beginner-friendly OSS repos
 
