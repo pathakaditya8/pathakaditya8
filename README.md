@@ -11,7 +11,6 @@
 ---
 
 - 🌱 I’m currently learning ReactJS, Node.js, and actively contributing to Open Source
-- 👯 I’m looking to collaborate on Girlscript Summer of Code 2025 and beginner-friendly OSS projects
 - 💬 Ask me about Web Development, Git & GitHub, and Open Source
 - 📫 Reach me at: adityapathak08.com@gmail.com
 - 🌐 Portfolio: Not Yet Active
@@ -47,7 +46,6 @@
 ---
 
 ### 🌱 Open Source Programs
-- 🎃 Hacktoberfest 2024 – Completed 4+ PRs
 - 🛠️ Actively contributing to beginner-friendly OSS repos
 
 ---
